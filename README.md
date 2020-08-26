@@ -39,7 +39,7 @@ Email: kseredick95@gmail.com
 
 Andrew Reeves-
 Github: [darkquilius](https://github.com/darkquilius)
-Email: andrew.reeves.coding.bootcamp@gmail.com
+Email: andrew.c.reeves27@gmail.com
 
 Dany Grimaldo-
 Github: [danygrimaldo](https://github.com/danygrimaldo)
