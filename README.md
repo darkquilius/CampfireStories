@@ -2,6 +2,8 @@
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
+Deployed: http://campfirestories.herokuapp.com/
+
 ## Description
 Online game where a player chooses a story and makes decisions on how to progress. Achievements are awarded as the game continues and are displayed on the user's profile, along with options to continue a story where it left off and a list of completed stories.
 
